@@ -12,6 +12,7 @@
 - [Do's and Don't's](#dos-and-donts)    
 
 ## VLC Media Player Description
+![VLC Image](src/vlc.jpg)    
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. VLC is one of the flexible and easy to use media player that supports wide range formats including MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv and AAC. 
 
 VLC was created by VideoLAN Organization who are the non profit organization dedicated for building a good media player for everyone. It is one of the most popular media player with 3 billion downloads in all devices and platform reached in 2019. 
