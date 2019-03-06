@@ -1,6 +1,14 @@
 # Contextual Inquiry and Analysis
 
 ## Outline
+[VLC Media Player Description](#VLC-Media-Player-Description)  
+[Instruction Script](#Instruction-Script)  
+[User Description](#User-Description)  
+[Transcript](#Transcript)  
+[Artifact Model](#Artifact-Model)
+[Flow Model](#Flow-Model)  
+[Cultural Model](#Cultural-Model)  
+[Do's and Don't's](#Do's-and-Don't's)    
 
 ## VLC Media Player Description
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. VLC is one of the flexible and easy to use media player that supports wide range formats including MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv and AAC. 
@@ -147,7 +155,7 @@ B: Parisudha
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](src/artifact.jpg)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
