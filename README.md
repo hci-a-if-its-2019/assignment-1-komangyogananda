@@ -9,7 +9,9 @@
   - [Artifact Model](#Artifact-Model)
   - [Flow Model](#Flow-Model)  
   - [Cultural Model](#Cultural-Model)  
-- [Do's and Don't's](#dos-and-donts)    
+- [Do's and Don't's](#dos-and-donts)
+  - [Do's](#Dos)  
+  - [Dont's](#Donts)   
 
 ## VLC Media Player Description
 ![VLC Image](src/vlc.jpg)    
@@ -165,4 +167,12 @@ B: Parisudha
 ### Cultural Model
 ![Cultural Model and Annotation](src/cultural.jpg)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+### Do's
+- Make the button more larger.
+- Use text information on the menu settings to clarify.
+- Make the theme more attractive.
+
+### Dont's
+- Dont use small button.
+- Dont only depends on the icon for the settings menu.
+- Dont put a settings outside settings menu section.
