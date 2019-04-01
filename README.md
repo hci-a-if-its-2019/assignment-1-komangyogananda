@@ -176,3 +176,12 @@ B: Parisudha
 - Dont use small button.
 - Dont only depends on the icon for the settings menu.
 - Dont put a settings outside settings menu section.
+
+# Remarks
+> * Thanks for completing all the parts in the assignment. I have several comments to make your assignment report better.
+> * Please do not reveal the participant's name in contextual inquiry report. It is part of privacy concerns.
+> * Furthermore, the models and the do's don't's parts are awesome. Please keep your good work.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 6                | 0               | 88                 | 82         | 86,8  |
